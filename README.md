@@ -23,13 +23,14 @@
 
 ### 실행 화면
 
+<figure class="third">
+<img src="https://user-images.githubusercontent.com/73932690/173000722-bab6ae85-a02a-4cbb-a8a9-53e4a8e21b45.png" width="370" height="700" />
 
-![1](https://user-images.githubusercontent.com/73932690/173000722-bab6ae85-a02a-4cbb-a8a9-53e4a8e21b45.png)
+<img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png" width="370" height="700" />
 
-![2](https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png)
+<img src="https://user-images.githubusercontent.com/73932690/173001334-e6962497-84ce-40c0-98a4-b83ddad02b29.png" width="370" height="700" />
 
-![3](https://user-images.githubusercontent.com/73932690/173001334-e6962497-84ce-40c0-98a4-b83ddad02b29.png)
-
+figure/>
 
 ---
 
