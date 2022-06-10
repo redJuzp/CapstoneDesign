@@ -24,11 +24,12 @@
 ### 실행 화면
 
 <figure class="thrid">
-<img src="https://user-images.githubusercontent.com/73932690/173000722-bab6ae85-a02a-4cbb-a8a9-53e4a8e21b45.png" width="320" height="600"/>
-
-<img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png" width="320" height="600"/>
-
-<img src="https://user-images.githubusercontent.com/73932690/173001334-e6962497-84ce-40c0-98a4-b83ddad02b29.png" width="320" height="600"/>
+<img src="https://user-images.githubusercontent.com/73932690/173000722-bab6ae85-a02a-4cbb-a8a9-53e4a8e21b45.png"/>
+ 로그인 화면
+<img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png"/>
+ 메인 화면
+<img src="https://user-images.githubusercontent.com/73932690/173001334-e6962497-84ce-40c0-98a4-b83ddad02b29.png"/>
+ 쇼핑몰 연동
 </figure>
 
 ---
