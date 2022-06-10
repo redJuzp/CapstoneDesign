@@ -24,7 +24,6 @@
 ### 실행 화면
 
 <img src="https://user-images.githubusercontent.com/73932690/173000722-bab6ae85-a02a-4cbb-a8a9-53e4a8e21b45.png" width="320" height="600"/>
-<br>
 :arrow_up_small:로그인 화면
  
 <br><br>
