@@ -22,7 +22,7 @@
 ---
 
 ### 실행 화면
-<img src="[https://user-images.githubusercontent.com/73932690/171369740-b410940c-bcc3-4ffd-90b1-4f9f1d99cb3e.png](https://user-images.githubusercontent.com/73932690/172993423-0656d52b-cd8b-45c2-8a9c-ffd98156be8c.png)" width="700" height="370" />
+<img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png" width="700" height="370" />
 
 
 ---
