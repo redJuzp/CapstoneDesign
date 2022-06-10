@@ -22,6 +22,8 @@
 ---
 
 ### 실행 화면
+<img src="https://github.com/redJuzp/CapstoneDesign/issues/7#issue-1267073053" width="370" height="700" />
+
 <img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png" width="370" height="700" />
 
 
