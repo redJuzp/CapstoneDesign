@@ -17,7 +17,7 @@
 ---
 
 ### 구성도
-<img src="https://user-images.githubusercontent.com/73932690/171367995-87a9d9a4-b593-413a-831b-1afabf9111f9.png" width="700" height="370" />
+<img src="https://user-images.githubusercontent.com/73932690/172993530-62d88d7b-0bde-4613-82a4-5db2cccfd5a9.png" width="700" height="370" />
 
 ---
 
